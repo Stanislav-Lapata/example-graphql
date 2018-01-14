@@ -1,0 +1,30 @@
+version: 1.0
+shards:
+  cltk:
+    github: ziprandom/cltk
+    commit: b641ba05d9e297e862fca20aa3647fc38a2d15cc
+
+  crystal-dfa:
+    github: ziprandom/crystal-dfa
+    version: 0.4.0
+
+  graphql-crystal:
+    github: Stanislav-Lapata/graphql-crystal
+    commit: b9e063802b42288cfa6a41051b298848074dcf79
+
+  kemal:
+    github: kemalcr/kemal
+    version: 0.22.0
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.4.0
+
+  msgpack:
+    github: benoist/msgpack-crystal
+    version: 0.7.1
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.8
+

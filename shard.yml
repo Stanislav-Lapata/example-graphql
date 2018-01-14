@@ -1,0 +1,20 @@
+name: example_graphql
+version: 0.1.0
+
+authors:
+  -  <>
+
+targets:
+  example_graphql:
+    main: src/example_graphql.cr
+
+crystal: 0.24.1
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  graphql-crystal:
+    github: Stanislav-Lapata/graphql-crystal
+    branch: add_operation_name
